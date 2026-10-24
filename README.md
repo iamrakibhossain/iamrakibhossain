@@ -1,9 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232A,100:61DAFB&height=120&section=header" alt="banner" />
-
 <a href="https://github.com/iamrakibhossain">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=400&color=61DAFB&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I%27m+Rakib+Hossain+%F0%9F%91%8B" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=400&color=61DAFB&center=true&vCenter=true&width=700&height=42&lines=Hi%2C+I%27m+Rakib+Hossain+%F0%9F%91%8B" alt="Typing animation" />
 </a>
 
 ### Full-Stack Developer
@@ -82,7 +81,7 @@ and continuously improving my development skills.
 ---
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Currently%20Learning&fontColor=61DAFB&fontSize=38&fontAlign=21&fontAlignY=50&height=60&animation=fadeIn" alt="Currently Learning" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Currently%20Learning&fontColor=61DAFB&fontSize=30&fontAlign=17&fontAlignY=50&height=60&animation=fadeIn" alt="Currently Learning" />
 
 <div align="center">
 
@@ -99,7 +98,7 @@ I'm strengthening my backend skills and exploring the full-stack workflow.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Let%27s%20Connect&fontColor=61DAFB&fontSize=38&fontAlign=15.5&fontAlignY=50&height=60&animation=fadeIn" alt="Let's Connect" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Let%27s%20Connect&fontColor=61DAFB&fontSize=30&fontAlign=12.7&fontAlignY=50&height=60&animation=fadeIn" alt="Let's Connect" />
 
 <div align="center">
 
