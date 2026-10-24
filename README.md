@@ -3,8 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232A,100:61DAFB&height=120&section=header" alt="banner" />
 
 <a href="https://github.com/iamrakibhossain">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1500&color=61DAFB&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I%27m+Rakib+Hossain" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=400&color=61DAFB&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I%27m+Rakib+Hossain" alt="Typing animation" />
 </a>
+
+### Full-Stack Developer
+
+**Building modern, responsive & interactive web experiences.**
 
 <br>
 
