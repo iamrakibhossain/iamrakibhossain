@@ -65,61 +65,18 @@ and continuously improving my development skills.
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Tech%20Stack&fontColor=61DAFB&fontSize=38&fontAlign=10&fontAlignY=50&height=70&animation=fadeIn" alt="Tech Stack" />
 
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend skills" />
-
-**Animation**
-
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](https://gsap.com/)
-
-**Backend (learning)**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend skills" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
-
-</div>
+| Category | Technologies |
+|:---|:---|
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend" /> |
+| ✨ **Animation** | [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](https://gsap.com/) [![Lenis](https://img.shields.io/badge/Lenis-111111?style=for-the-badge&logoColor=ffffff)](https://lenis.darkroom.engineering/) |
+| ⚙️ **Backend** _(learning)_ | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" /> |
+| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" /> |
 
 ---
 
-## 🎯 What I Focus On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Development
-
-- Responsive Web Design
-- Modern UI Development
-- Tailwind CSS Styling
-- React Applications
-- JavaScript Development
-- Interactive Web Experiences
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Full-Stack Development
-
-- REST API Development
-- Backend Fundamentals
-- Database Integration
-- Authentication & Authorization
-- Full-Stack Application Architecture
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📚 Currently Learning
 
