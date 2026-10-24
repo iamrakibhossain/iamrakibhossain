@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232A,100:61DAFB&height=120&section=header" alt="banner" />
 
 <a href="https://github.com/iamrakibhossain">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I%27m+Rakib+Hossain+%F0%9F%91%8B;Full-Stack+Developer+in+the+making;React+%7C+Tailwind+CSS+%7C+GSAP;Building+modern%2C+responsive+web+experiences" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1500&color=61DAFB&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I%27m+Rakib+Hossain" alt="Typing animation" />
 </a>
 
 <br>
