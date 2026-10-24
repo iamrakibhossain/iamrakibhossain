@@ -65,7 +65,9 @@ and continuously improving my development skills.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Tech%20Stack&fontColor=61DAFB&fontSize=38&fontAlign=10&fontAlignY=50&height=70&animation=fadeIn" alt="Tech Stack" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Tech%20Stack&fontColor=61DAFB&fontSize=38&fontAlign=12.5&fontAlignY=50&height=60&animation=fadeIn" alt="Tech Stack" />
+
+<div align="center">
 
 | Category | Technologies |
 |:---|:---|
@@ -75,33 +77,41 @@ and continuously improving my development skills.
 | 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" /> |
 | 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" /> |
 
+</div>
+
 ---
 
 
-## 📚 Currently Learning
-
-I'm strengthening my backend skills with **Node.js · Express.js · MongoDB**.
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Currently%20Learning&fontColor=61DAFB&fontSize=38&fontAlign=21&fontAlignY=50&height=60&animation=fadeIn" alt="Currently Learning" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Currently learning" />
+I'm strengthening my backend skills and exploring the full-stack workflow.
 
-| 🌐 REST API Development | 🔧 Node.js & Express.js | 🗄️ MongoDB & Database Design |
+<br>
+
+| <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" alt="Node.js and Express" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" /> |
 |:---:|:---:|:---:|
-| 🔐 **Authentication & Authorization** | 🔗 **Frontend–Backend Integration** | 🚀 **Full-Stack Application Development** |
+| **⚙️ Backend** | **🗄️ Database** | **🚀 Full-Stack** |
+| Node.js & Express.js<br>REST API Development<br>Authentication & Authorization | MongoDB<br>Database Design | Next.js<br>Frontend–Backend Integration<br>Full-Stack Application Development |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in learning, building and collaborating on meaningful projects.
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Let%27s%20Connect&fontColor=61DAFB&fontSize=38&fontAlign=15.5&fontAlignY=50&height=60&animation=fadeIn" alt="Let's Connect" />
 
 <div align="center">
 
+I'm always interested in learning, building and collaborating on meaningful projects.  
+Feel free to reach out!
+
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamrakibhossain)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibhossain2512/)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamrakibhossain2512@gmail.com)
 
 <br>
